@@ -3,16 +3,21 @@
 Τα ΨΜΑ βρίσκονται υπό κρίση στο ιδρυματικό αποθετήριο Φωτόδεντρο. Παραθέτω τα links:
 
 and
+
 https://photodentro.edu.gr/v/item/ugc/8525/3189
 
 or
+
 https://photodentro.edu.gr/v/item/ugc/8525/3189
 
 xor
+
 https://photodentro.edu.gr/v/item/ugc/8525/3189
 
 xnor
+
 https://photodentro.edu.gr/v/item/ugc/8525/3189
 
 Άσκηση and-or
+
 https://photodentro.edu.gr/v/item/ugc/8525/3189
